@@ -1,6 +1,6 @@
 # Docker-react-development-env
 
-Docker Compose to set up and run a react app
+Docker Compose to set up and run a react app, to start add this files into your react init project
 
 ## To start the project
 
