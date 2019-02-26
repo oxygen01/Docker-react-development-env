@@ -8,5 +8,5 @@ services:
     environment:
       - NODE_ENV=development
     volumes:
-      - './:/usr/src/app'
-      - '/usr/src/app/node_modules'
+      - './:/code'
+      - '/code/node_modules'
